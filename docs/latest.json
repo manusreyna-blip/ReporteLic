@@ -1,0 +1,20 @@
+{
+  "date": "Jueves, 11 de junio de 2026",
+  "date_iso": "2026-06-11",
+  "sources_checked": "4 ok / 0 con falla",
+  "sources_ok": [
+    "COMPR.AR",
+    "CONTRAT.AR",
+    "BAC",
+    "BO-Nación"
+  ],
+  "sources_failed": [],
+  "pipeline_stats": {
+    "raw": 31,
+    "deduped": 27,
+    "active": 15,
+    "candidates": 0
+  },
+  "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
+  "tenders": []
+}
