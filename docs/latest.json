@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 16 de junio de 2026",
-  "date_iso": "2026-06-16",
+  "date": "Miércoles, 24 de junio de 2026",
+  "date_iso": "2026-06-24",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -13,41 +13,8 @@
     "raw": 31,
     "deduped": 29,
     "active": 15,
-    "candidates": 2
+    "candidates": 0
   },
-  "summary": "2 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 1 con apertura en menos de 10 días. Productos con más demanda: MuleSoft, Salesforce Platform.",
-  "tenders": [
-    {
-      "title": "Búsqueda",
-      "agency": "SecretaríaLegal y Técnica",
-      "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2413540/20260616",
-      "process_id": "0253/2026",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ARMADA ARGENTINA - Licitación Pública 0253/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 16 de Junio de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EQ. Y SUM. MEDICINA, ODONTOLOGIA Y VETERINARIA Detalle | | Ver páginas publicadas Ver texto del aviso ARMADA ARGENTINA Licitación Pública 0253/2026 UOC: 38/37 - Hospital Naval Puerto Belgrano Ejercicio: 2026 Clase: Única Nacional Modalidad: Orden de compra abierta Expediente N°: EX-2026-57538984- -APN-DSA#ARA Objeto: ADQUISICION DE KITS SANITARIOS PARA LA UNIDAD DE TERAPIA INTENSIVA Y GUARDIA MEDICA NECESARIOS PARA EL CORRECTO FUNCIONAMIENTO DEL SERVICIO. Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquirir participando del proceso en COMPR.AR. Plazo y horario: De 12/06/2026 09:00:00 a 24/06/2026 08:30:00 Consulta del Pliego de Bases y Condi",
-      "budget": "N/D",
-      "opening_date": "2026-06-24",
-      "jurisdiction": "Nación",
-      "probability": 42,
-      "products": [
-        "MuleSoft"
-      ],
-      "rationale": "Score por reglas (sin IA): señales detectadas — api."
-    },
-    {
-      "title": "Búsqueda",
-      "agency": "SecretaríaLegal y Técnica",
-      "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2413549/20260616",
-      "process_id": "001/2026",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - UNIVERSIDAD DE BUENOS AIRES - Licitación Pública 001/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 16 de Junio de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera CIVILES Detalle | | Ver páginas publicadas Ver texto del aviso UNIVERSIDAD DE BUENOS AIRES Licitación Pública 001/2026 Ejercicio: 2026 Clase / Causal del Procedimiento: DE ETAPA ÚNICA NACIONAL Modalidad: SIN MODALIDAD Expediente Electrónico Nº: EX - 2026- 01953811--UBA-DMESA#SSA_FAGRO Objeto de la contratación: “Adecuación completa de la instalación eléctrica y realización de obras de mantenimiento y reparación de los cielorrasos del Pabellón de Dasonomía de la Facultad de Agronomía”, según Especificaciones Técnicas, Planos y Cláusulas Particulares del Pliego. Presupuesto Oficial: PESOS SETENTA Y OCHO MILLONES SESENTA Y NUEVE MIL TRESCIENTOS QUINCE ($ 78.069.315,00)",
-      "budget": "N/D",
-      "opening_date": "2026-07-08",
-      "jurisdiction": "Nación",
-      "probability": 42,
-      "products": [
-        "Salesforce Platform"
-      ],
-      "rationale": "Score por reglas (sin IA): señales detectadas — expediente electronico."
-    }
-  ]
+  "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
+  "tenders": []
 }
