@@ -1,6 +1,6 @@
 {
-  "date": "Sábado, 27 de junio de 2026",
-  "date_iso": "2026-06-27",
+  "date": "Martes, 30 de junio de 2026",
+  "date_iso": "2026-06-30",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,27 +11,10 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 31,
-    "deduped": 29,
-    "active": 20,
-    "candidates": 1
+    "deduped": 26,
+    "active": 9,
+    "candidates": 0
   },
-  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: Salesforce Platform.",
-  "tenders": [
-    {
-      "title": "Búsqueda",
-      "agency": "SecretaríaLegal y Técnica",
-      "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2414017/20260626",
-      "process_id": "17/26",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - \nDIRECCIÓN REGIONAL ADUANERA RÍO COLORADO - Licitación Pública 17/26 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 26 de Junio de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EFECTOS VARIOS Detalle | | Ver páginas publicadas Ver texto del aviso AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - \nDIRECCIÓN REGIONAL ADUANERA RÍO COLORADO Licitación Pública 17/26 EXPEDIENTE ELECTRÓNICO: EX-2026-01730010-ARCA-DVAFRC#SDGOAI OBJETO: ADQUISICIÓN DE PSEUDO AROMAS PARA CANES DE LA DIRECCIÓN REGIONAL ADUANERA RIO COLORADO. Fecha de Apertura de Ofertas: 15/07/2026 a las 10:00Hs. LUGAR, HORARIO Y RETIRO DE PLIEGOS Y CONSULTAS: División Administrativa y Financiera (DI RARC), San Martín Nº 145, 4º piso, ciudad de Bahía Blanca, horario de 09:00 a 15:00hs. Teléfono 0291-4599344. Correo electrónico: contrat",
-      "budget": "N/D",
-      "opening_date": "2026-07-15",
-      "jurisdiction": "Nación",
-      "probability": 42,
-      "products": [
-        "Salesforce Platform"
-      ],
-      "rationale": "Score por reglas (sin IA): señales detectadas — expediente electronico."
-    }
-  ]
+  "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
+  "tenders": []
 }
