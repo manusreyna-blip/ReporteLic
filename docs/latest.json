@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 30 de junio de 2026",
-  "date_iso": "2026-06-30",
+  "date": "Miércoles, 1 de julio de 2026",
+  "date_iso": "2026-07-01",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -12,7 +12,7 @@
   "pipeline_stats": {
     "raw": 31,
     "deduped": 26,
-    "active": 9,
+    "active": 11,
     "candidates": 0
   },
   "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
