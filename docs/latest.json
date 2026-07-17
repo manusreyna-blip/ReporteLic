@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 14 de julio de 2026",
-  "date_iso": "2026-07-14",
+  "date": "Viernes, 17 de julio de 2026",
+  "date_iso": "2026-07-17",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,27 +11,10 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 31,
-    "deduped": 28,
-    "active": 14,
-    "candidates": 1
+    "deduped": 31,
+    "active": 18,
+    "candidates": 0
   },
-  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: Salesforce Platform.",
-  "tenders": [
-    {
-      "title": "Búsqueda",
-      "agency": "SecretaríaLegal y Técnica",
-      "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2414600/20260714",
-      "process_id": "276/2026",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ARMADA ARGENTINA - Licitación Pública 276/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 14 de Julio de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EFECTOS VARIOS Detalle | | Ver páginas publicadas Ver texto del aviso ARMADA ARGENTINA Licitación Pública 276/2026 UOC: 38/008 - Base Naval Zárate Ejercicio: 2026 Clase: Única Nacional Modalidad: Sin modalidad - Llave en mano Expediente N°: EX-2026-61279388- -APN-CANF#ARA Tipo de Circular: Modificatoria Con consulta Número de Circular: 1 Año de Circular: 2026 Fecha de Circular: 08-07-2026 Objeto: ADQUISICIÓN / MODERNIZACIÓN CONVERTIDORES PARA BUQUES MULTIPROPÓSITOS DE LA DIVISIÓN PATRULLADO FLUVIAL- FONDEF Texto de la Circular: TIPO DE PROCEDIMIENTO: LICITACIÓN PÚBLICA 38/8-0276-LPU26 EXPEDIENTE ELECTRÓNICO: EX-2026-61279388- -APN-CANF#ARA CLASE: ETAPA UNICA Y ALCANCE NACIONAL",
-      "budget": "N/D",
-      "opening_date": "2026-08-04",
-      "jurisdiction": "Nación",
-      "probability": 42,
-      "products": [
-        "Salesforce Platform"
-      ],
-      "rationale": "Score por reglas (sin IA): señales detectadas — expediente electronico."
-    }
-  ]
+  "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
+  "tenders": []
 }
