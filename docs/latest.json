@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 21 de julio de 2026",
-  "date_iso": "2026-07-21",
+  "date": "Miércoles, 22 de julio de 2026",
+  "date_iso": "2026-07-22",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,7 +11,7 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 31,
-    "deduped": 21,
+    "deduped": 22,
     "active": 15,
     "candidates": 0
   },
