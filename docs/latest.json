@@ -1,6 +1,6 @@
 {
-  "date": "Viernes, 7 de agosto de 2026",
-  "date_iso": "2026-08-07",
+  "date": "Sábado, 8 de agosto de 2026",
+  "date_iso": "2026-08-08",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -10,9 +10,9 @@
   ],
   "sources_failed": [],
   "pipeline_stats": {
-    "raw": 34,
-    "deduped": 34,
-    "active": 0,
+    "raw": 65,
+    "deduped": 63,
+    "active": 17,
     "candidates": 0
   },
   "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
