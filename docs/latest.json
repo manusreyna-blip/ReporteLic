@@ -1,6 +1,6 @@
 {
-  "date": "Sábado, 8 de agosto de 2026",
-  "date_iso": "2026-08-08",
+  "date": "Lunes, 10 de agosto de 2026",
+  "date_iso": "2026-08-10",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,10 +11,27 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 65,
-    "deduped": 63,
-    "active": 17,
-    "candidates": 0
+    "deduped": 65,
+    "active": 21,
+    "candidates": 1
   },
-  "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
-  "tenders": []
+  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: Salesforce Platform.",
+  "tenders": [
+    {
+      "title": "Búsqueda",
+      "agency": "SecretaríaLegal y Técnica",
+      "source": "BO-Nación",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2415828/20260810",
+      "process_id": "",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - UNIVERSIDAD NACIONAL DE QUILMES - Licitación Privada 7/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 10 de Agosto de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EFECTOS VARIOS Detalle | | Ver páginas publicadas Ver texto del aviso UNIVERSIDAD NACIONAL DE QUILMES Licitación Privada 7/2026 OBJETO: Adquisición de equipamiento para automatización de estacionamientos de sedes Bernal y Campo de Deportes CONSULTAS Y DESCARGA DE PLIEGOS www.compras@unq.edu.ar, licitaciones@unq.edu.ar Sin costo PRESENTACIÓN REMOTA DE OFERTAS Desde 07/08/2026 hasta 31/08/2026 a las 10:45 hs. ofertas@unq.edu.ar FECHA DE APERTURA REMOTA DE OFERTAS Lunes 31/08/2026 a las 11:00hs. ID de reunión: 899 8480 8281 Código de acceso: unq Link: https://us05web.zoom.us/j/89984808281?pwd=Wxji1R4HLgyNafoHPfUa9tymdu4IeO.1 EXPEDIENTE 827-1356/2026 e. 07/08/2026 N°",
+      "budget": "N/D",
+      "opening_date": "2026-08-31",
+      "jurisdiction": "Nación",
+      "probability": 42,
+      "products": [
+        "Salesforce Platform"
+      ],
+      "rationale": "Score por reglas (sin IA): señales detectadas — automatizacion."
+    }
+  ]
 }
