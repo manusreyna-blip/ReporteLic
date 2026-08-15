@@ -1,6 +1,6 @@
 {
-  "date": "Viernes, 14 de agosto de 2026",
-  "date_iso": "2026-08-14",
+  "date": "Sábado, 15 de agosto de 2026",
+  "date_iso": "2026-08-15",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,7 +11,7 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 65,
-    "deduped": 60,
+    "deduped": 61,
     "active": 15,
     "candidates": 0
   },
