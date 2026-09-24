@@ -1,6 +1,6 @@
 {
-  "date": "Miércoles, 23 de septiembre de 2026",
-  "date_iso": "2026-09-23",
+  "date": "Jueves, 24 de septiembre de 2026",
+  "date_iso": "2026-09-24",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -10,9 +10,9 @@
   ],
   "sources_failed": [],
   "pipeline_stats": {
-    "raw": 65,
-    "deduped": 63,
-    "active": 17,
+    "raw": 31,
+    "deduped": 31,
+    "active": 19,
     "candidates": 0
   },
   "summary": "Sin licitaciones tecnológicas activas detectadas hoy en las fuentes disponibles (COMPR.AR, CONTRAT.AR, BAC, BO-Nación).",
