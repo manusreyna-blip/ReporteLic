@@ -1,6 +1,6 @@
 {
-  "date": "Jueves, 24 de septiembre de 2026",
-  "date_iso": "2026-09-24",
+  "date": "Sábado, 26 de septiembre de 2026",
+  "date_iso": "2026-09-26",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -10,8 +10,8 @@
   ],
   "sources_failed": [],
   "pipeline_stats": {
-    "raw": 31,
-    "deduped": 31,
+    "raw": 65,
+    "deduped": 65,
     "active": 19,
     "candidates": 0
   },
