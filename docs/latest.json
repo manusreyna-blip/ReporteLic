@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 29 de septiembre de 2026",
-  "date_iso": "2026-09-29",
+  "date": "Miércoles, 30 de septiembre de 2026",
+  "date_iso": "2026-09-30",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,19 +11,33 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 65,
-    "deduped": 64,
-    "active": 13,
-    "candidates": 1
+    "deduped": 62,
+    "active": 21,
+    "candidates": 2
   },
-  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: N/D.",
+  "summary": "2 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: N/D.",
   "tenders": [
     {
       "title": "Búsqueda",
       "agency": "SecretaríaLegal y Técnica",
       "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418155/20260929",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418208/20260930",
+      "process_id": "0006/2026",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - BIBLIOTECA NACIONAL DOCTOR MARIANO MORENO - Licitación Pública 0006/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 30 de Septiembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera SERVICIOS DIVERSOS Detalle | | Ver páginas publicadas Ver texto del aviso BIBLIOTECA NACIONAL DOCTOR MARIANO MORENO Licitación Pública 0006/2026 UOC: 92 - Departamento de Compras y Contrataciones- BN Ejercicio: 2026 Clase: Única Nacional Modalidad: Sin modalidad Expediente N°: EX-2026-90121516- -APN-DCIB#BNMM Objeto: Digitalización del Archivo de Redacción, Archivo Fotográfico y tomos encuadernados de las publicaciones periódicas de la Editorial Sarmiento para conservación y salvaguarda del patrimonio cultural argentino en la BIBLIOTECA NACIONAL MARIANO MORENO. Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquiri",
+      "budget": "N/D",
+      "opening_date": "2026-10-21",
+      "jurisdiction": "Nación",
+      "probability": 42,
+      "products": [],
+      "rationale": "Score por reglas (sin IA): señales detectadas — digitalizacion."
+    },
+    {
+      "title": "Búsqueda",
+      "agency": "SecretaríaLegal y Técnica",
+      "source": "BO-Nación",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418209/20260930",
       "process_id": "0009/2026",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ADMINISTRACIÓN NACIONAL DE AVIACIÓN CIVIL - Licitación Pública 0009/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 29 de Septiembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera SERVICIOS DIVERSOS Detalle | | Ver páginas publicadas Ver texto del aviso ADMINISTRACIÓN NACIONAL DE AVIACIÓN CIVIL Licitación Pública 0009/2026 UOC: 327 - Departamento de Compras y Contrataciones- ANAC Ejercicio: 2026 Clase: Única Nacional Modalidad: Sin modalidad - Llave en mano Expediente N°: EX-2026-87496263- -APN-DGLTYA#ANAC Objeto: Servicio Integral de migración/actualización de la plataforma de comunicaciones Zimbra. Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquirir participando del proceso en COMPR.AR. Plazo y horario: De 28/09/2026 11:00:00 a 16/10/2026 11:00:00 Consulta del Pliego de Bases y Condici",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ADMINISTRACIÓN NACIONAL DE AVIACIÓN CIVIL - Licitación Pública 0009/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 30 de Septiembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera SERVICIOS DIVERSOS Detalle | | Ver páginas publicadas Ver texto del aviso ADMINISTRACIÓN NACIONAL DE AVIACIÓN CIVIL Licitación Pública 0009/2026 UOC: 327 - Departamento de Compras y Contrataciones- ANAC Ejercicio: 2026 Clase: Única Nacional Modalidad: Sin modalidad - Llave en mano Expediente N°: EX-2026-87496263- -APN-DGLTYA#ANAC Objeto: Servicio Integral de migración/actualización de la plataforma de comunicaciones Zimbra. Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquirir participando del proceso en COMPR.AR. Plazo y horario: De 28/09/2026 11:00:00 a 16/10/2026 11:00:00 Consulta del Pliego de Bases y Condici",
       "budget": "N/D",
       "opening_date": "2026-10-16",
       "jurisdiction": "Nación",
