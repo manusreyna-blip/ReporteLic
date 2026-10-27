@@ -1,6 +1,6 @@
 {
-  "date": "Lunes, 26 de octubre de 2026",
-  "date_iso": "2026-10-26",
+  "date": "Martes, 27 de octubre de 2026",
+  "date_iso": "2026-10-27",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -10,8 +10,8 @@
   ],
   "sources_failed": [],
   "pipeline_stats": {
-    "raw": 34,
-    "deduped": 34,
+    "raw": 0,
+    "deduped": 0,
     "active": 0,
     "candidates": 0
   },
