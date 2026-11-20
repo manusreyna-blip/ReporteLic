@@ -1,6 +1,6 @@
 {
-  "date": "Martes, 17 de noviembre de 2026",
-  "date_iso": "2026-11-17",
+  "date": "Viernes, 20 de noviembre de 2026",
+  "date_iso": "2026-11-20",
   "sources_checked": "4 ok / 0 con falla",
   "sources_ok": [
     "COMPR.AR",
@@ -11,27 +11,27 @@
   "sources_failed": [],
   "pipeline_stats": {
     "raw": 31,
-    "deduped": 29,
-    "active": 23,
+    "deduped": 23,
+    "active": 18,
     "candidates": 1
   },
-  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: Salesforce Platform.",
+  "summary": "1 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 0 con apertura en menos de 10 días. Productos con más demanda: MuleSoft.",
   "tenders": [
     {
       "title": "Búsqueda",
       "agency": "SecretaríaLegal y Técnica",
       "source": "BO-Nación",
-      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420637/20261117",
-      "process_id": "PROCESO",
-      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL - Licitación Pública PROCESO COMPR.AR 63-0023-LPU26 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 17 de Noviembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EFECTOS VARIOS Detalle | | Ver páginas publicadas Ver texto del aviso ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL Licitación Pública PROCESO COMPR.AR 63-0023-LPU26 Clase/Causal del procedimiento: Etapa Única Nacional Modalidad: Sin Modalidad N° de Expediente Electrónico: EX-2026-84549871-ANSES-DC#ANSES Rubro: 4- Indumentaria textil y confecciones. 9- Electricidad y telefonía. 13- Informática. 14- Repuestos. 19- Artículos del hogar. 24- Equipos. Objeto: Adquisición de equipos y accesorios de video y fotografía destinados al equipo de audio visual de esta Administración Nacional de la Seguridad Social (ANSES). Retiro de ",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420850/20261120",
+      "process_id": "0027/2026",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ADMINISTRACIÓN NACIONAL DE ESTABLECIMIENTOS DE SALUD - Licitación Pública 0027/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 20 de Noviembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EQ. Y SUM. MEDICINA, ODONTOLOGIA Y VETERINARIA Detalle | | Ver páginas publicadas Ver texto del aviso ADMINISTRACIÓN NACIONAL DE ESTABLECIMIENTOS DE SALUD Licitación Pública 0027/2026 UOC: 509/1 - Compras y Contrataciones - Hospital Nac Prof Alejandro Posadas Ejercicio: 2026 Clase: Única Nacional Modalidad: Orden de compra abierta Expediente N°: EX-2026-77729785- -APN-DCYC#HP Objeto: FÓRMULAS LÁCTEAS Y PRODUCTOS DIETOTERÁPICOS Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquirir participando del proceso en COMPR.AR. Plazo y horario: De 20/11/2026 08:00:00 a 03/12/2026 13:00:00 Consulta del Pliego de Ba",
       "budget": "N/D",
-      "opening_date": "2026-12-04",
+      "opening_date": "2026-12-03",
       "jurisdiction": "Nación",
-      "probability": 49,
+      "probability": 42,
       "products": [
-        "Salesforce Platform"
+        "MuleSoft"
       ],
-      "rationale": "Score por reglas (sin IA): señales detectadas — expediente electronico, informatica."
+      "rationale": "Score por reglas (sin IA): señales detectadas — api."
     }
   ]
 }
