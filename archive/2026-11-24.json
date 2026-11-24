@@ -1,0 +1,51 @@
+{
+  "date": "Martes, 24 de noviembre de 2026",
+  "date_iso": "2026-11-24",
+  "sources_checked": "4 ok / 0 con falla",
+  "sources_ok": [
+    "COMPR.AR",
+    "CONTRAT.AR",
+    "BAC",
+    "BO-Nación"
+  ],
+  "sources_failed": [],
+  "pipeline_stats": {
+    "raw": 31,
+    "deduped": 25,
+    "active": 17,
+    "candidates": 2
+  },
+  "summary": "2 licitaciones tecnológicas activas detectadas, 0 con probabilidad alta (≥65) y 1 con apertura en menos de 10 días. Productos con más demanda: MuleSoft.",
+  "tenders": [
+    {
+      "title": "Búsqueda",
+      "agency": "SecretaríaLegal y Técnica",
+      "source": "BO-Nación",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420941/20261124",
+      "process_id": "1016",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - CASA DE MONEDA SOCIEDAD ANÓNIMA UNIPERSONAL - Licitación Pública 1016 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 24 de Noviembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EQ. PROC. AUTOMATICO DE DATOS, SOFT., SUM.Y EQ. APOYO Detalle | | Ver páginas publicadas Ver texto del aviso CASA DE MONEDA SOCIEDAD ANÓNIMA UNIPERSONAL Licitación Pública 1016 EXPEDIENTE N° EX-2026-00024190-CAMOAR-GCOM#SECM CASA DE MONEDA S.A.U. LICITACIÓN PÚBLICA N° 1016. OBJETO: LICENCIAS DE SEGURIDAD INFORMÁTICA Y SOPORTE TÉCNICO OFICIAL DE HARDWARE Y SOFTWARE. LUGAR DONDE PUEDEN RETIRARSE O CONSULTARSE LOS PLIEGOS: EN NUESTRA PAGINA WEB WWW.CASADEMONEDA.GOB.AR y/o Av. ANTÁRTIDA ARGENTINA 2085 CIUDAD AUTÓNOMA DE BUENOS AIRES (GERENCIA DE COMPRAS) HORARIO: DE 10.00 A 17.00 HS. LUGAR DE PRESENTACIÓN DE LAS OFERTAS: Av. ANTÁRTIDA ARGENTINA 2085, CIU",
+      "budget": "N/D",
+      "opening_date": "2026-12-11",
+      "jurisdiction": "Nación",
+      "probability": 42,
+      "products": [],
+      "rationale": "Score por reglas (sin IA): señales detectadas — software, informatica."
+    },
+    {
+      "title": "Búsqueda",
+      "agency": "SecretaríaLegal y Técnica",
+      "source": "BO-Nación",
+      "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420947/20261124",
+      "process_id": "0027/2026",
+      "description": "BOLETIN OFICIAL REPUBLICA ARGENTINA - ADMINISTRACIÓN NACIONAL DE ESTABLECIMIENTOS DE SALUD - Licitación Pública 0027/2026 Toggle navigation Boletín Oficial de la República Argentina Institucional Productos y servicios Preguntas Frecuentes Contacto × Edición del 24 de Noviembre de 2026 Ediciones Anteriores Búsqueda avanzada Secciones Búsqueda Cantidad de resultados Búsqueda avanzada Legislación y Avisos Oficiales Primera Sección Sociedades y Avisos Judiciales Segunda Sección Contrataciones Tercera Sección Volver Contrataciones Tercera sección Tercera EQ. Y SUM. MEDICINA, ODONTOLOGIA Y VETERINARIA Detalle | | Ver páginas publicadas Ver texto del aviso ADMINISTRACIÓN NACIONAL DE ESTABLECIMIENTOS DE SALUD Licitación Pública 0027/2026 UOC: 509/1 - Compras y Contrataciones - Hospital Nac Prof Alejandro Posadas Ejercicio: 2026 Clase: Única Nacional Modalidad: Orden de compra abierta Expediente N°: EX-2026-77729785- -APN-DCYC#HP Objeto: FÓRMULAS LÁCTEAS Y PRODUCTOS DIETOTERÁPICOS Retiro del Pliego de Bases y Condiciones Lugar y dirección: El pliego se puede adquirir participando del proceso en COMPR.AR. Plazo y horario: De 20/11/2026 08:00:00 a 03/12/2026 13:00:00 Consulta del Pliego de Ba",
+      "budget": "N/D",
+      "opening_date": "2026-12-03",
+      "jurisdiction": "Nación",
+      "probability": 42,
+      "products": [
+        "MuleSoft"
+      ],
+      "rationale": "Score por reglas (sin IA): señales detectadas — api."
+    }
+  ]
+}
